@@ -11,3 +11,6 @@ Anecdotal claims of Bigfoot sightings have intrigued Americans for over a centur
 Through this analysis, I've unveiled correlations between Bigfoot sightings and environmental factors such as season, cloud cover, and tree coverage. Additionally, the influence of media on sighting trends and the possible impact of bear population changes were explored, lending support to the bear theory. Further investigations could delve into cultural influences and eyesight variations among states.
 
 ## License
+
+This project is licensed under the terms of the MIT License. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
