@@ -11,12 +11,12 @@ Anecdotal claims of Bigfoot sightings have intrigued Americans for over a centur
 
 The subsequent decline in sightings intrigued me. To better understand it, I decided to investigate the popular theories surrounding Big Foot. One such theory is that Big Foot sightings are simply bears being mistaken for the creature. A connection was found between decreased bear populations, possibly due to a 2018 salmon disease outbreak in the northwest, and the decline in sightings around the same period.
 
-**Seasonal Patterns:** A breakdown of sightings by season, with summer leading due to higher outdoor activity in wooded areas. Cloud cover's influence on sightings was explored, revealing interesting peaks in sightings under both clear and completely cloudy skies.
+**Seasonal Patterns:** An analysis of sightings by season shows that summer leads; more people are outside during warmer months. This could contribute to increased sightings by increased incidence of mistaken bear sighitngs as well. In addition, cloud cover's influence on sightings was explored. It revealed peaks in sightings under both clear and completely cloudy skies. Clear skies could contribute to an increased amount of people outdoors while cloudy skies lend themselves to the possiblity of mistaken sightings.
 
 ### **Location Analysis**
-**Sightings per State:** The number of sightings is compared to state populations. Washington consistently leads in sightings, hinting at cultural and environmental factors influencing the phenomenon.
+**Sightings per State:** Big Foot sightings were laid over the 2018 US Census State Population. Washington consistently leads in sightings, hinting at possible cultural and environmental factors influencing the phenomenon.
 
-**Washington State Focus:** A detailed examination of Washington state's counties in relation to sightings and tree coverage. Sightings are more prevalent in densely wooded areas, possibly due to increased shading and higher chances of mistaken identity.
+**Washington State:** An examination of Washington state's counties in relation to sightings and tree coverage was undertaken. Sightings are more prevalent in densely wooded areas, possibly due to increased shading and once again, mistaken identity.
 
 ## Conclusion
 
