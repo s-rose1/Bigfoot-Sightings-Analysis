@@ -7,9 +7,9 @@ Anecdotal claims of Bigfoot sightings have intrigued Americans for over a centur
 
 ## **Dashboard Insights**
 ### **Comparing Sightings with Time, Season, and Cloud Cover**
-**Total Sightings over Time:** A visualization of the frequency of Bigfoot sightings over the years, showcasing a significant peak in 2004 (241 sightings). The release of a 2003 National Geographic article discussing Bigfoot's reality likely contributed to this surge.
+**Total Sightings by Year:** A visualization of the frequency of Bigfoot sightings over the years, showcasing a significant peak in 2004 with 241 sightings. The release of a 2003 National Geographic article, Big Foot is Real, showcases the culture of cryptids at the time. It's likely this culture is related to the uptick in reported sightings.
 
-**Decline in Sightings:** The subsequent decline in sightings was investigated. A connection was found between decreased bear populations, possibly due to a 2018 salmon disease outbreak in the northwest, and the decline in sightings around the same period.
+The subsequent decline in sightings intrigued me. To better understand it, I decided to investigate the popular theories surrounding Big Foot. One such theory is that Big Foot sightings are simply bears being mistaken for the creature. A connection was found between decreased bear populations, possibly due to a 2018 salmon disease outbreak in the northwest, and the decline in sightings around the same period.
 
 **Seasonal Patterns:** A breakdown of sightings by season, with summer leading due to higher outdoor activity in wooded areas. Cloud cover's influence on sightings was explored, revealing interesting peaks in sightings under both clear and completely cloudy skies.
 
