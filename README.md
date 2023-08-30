@@ -1,4 +1,5 @@
 # Bigfoot-Sightings-Analysis
+[Explore the Tableau Dashboard](https://public.tableau.com/app/profile/savannah.rose/viz/TermProject_16862472279200/Dashboard1#2)
 
 ## Introduction
 
