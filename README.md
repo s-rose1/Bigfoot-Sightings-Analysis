@@ -11,7 +11,7 @@ Data was obtained from the Bigfoot Field Research Organiziation along with Urban
 
 ## **Dashboard Insights**
 ### **Comparing Sightings with Time, Season, and Cloud Cover**
-**Total Sightings by Year:** A visualization of the frequency of Bigfoot sightings over the years, showcasing a significant peak in 2004 with 241 sightings. The release of a 2003 National Geographic sensationalized article, "[Forensic Expert Says Big Foot is Real](https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real)", showcases the culture of cryptids at the time. It's likely this culture is related to the uptick in reported sightings.It's likely this culture is related to the uptick in reported sightings.
+**Total Sightings by Year:** A visualization of the frequency of Bigfoot sightings over the years, showcasing a significant peak in 2004 with 241 sightings. The release of a 2003 National Geographic sensationalized article, [Forensic Expert Says Big Foot is Real](https://www.nationalgeographic.com/culture/article/forensic-expert-says-bigfoot-is-real), showcases the culture of cryptids at the time. It's likely this culture is related to the uptick in reported sightings.It's likely this culture is related to the uptick in reported sightings.
 
 The subsequent decline in sightings intrigued me. To better understand it, I decided to investigate the popular theories surrounding Big Foot. One such theory is that Big Foot sightings are simply bears being mistaken for the creature. A connection was found between decreased bear populations, possibly due to a 2018 salmon disease outbreak in the northwest, and the decline in sightings around the same period.
 
